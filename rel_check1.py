@@ -4,7 +4,11 @@ class Rel_Check:
         self.peeps = {'EZRA':'30th July','EDITH':'6th June','MY FATHER':'2nd May','SIR DANJUMA': '29th January 1995',
                       'ALPHA': '1999-12-19', 'EMMA':'15th january 2000', 'AUNTY ROSE':'22nd September', 'UNCLE DOUGLAS':'10th October',
                       'AUNTY BLESSING': '19th March', 'FAVOUR':'7th October', 'HAVILLAH': '27th MAY','HEBRON':'6th June','JERRY':'17th June',
-                      'RACHEAL':'19th July', 'PATIENCE AKYENGO':'8th July', 'AUNTY DORATHY':'7th JUNE'}
+                      'RACHEAL':'19th July', 'PATIENCE AKYENGO':'8th July', 'AUNTY DORATHY':'7th JUNE', 'DIRECTOR':'27 september', 'AUNTY MARY':'20 october',
+                      'UNCLE EWUGA':'26 febuary', 'AUNTY ASHE':'15 April', 'AUNTY RAHAB':'26 FEB', 'MOSQUITO':'3 feb', 'JOSPHINE':'6 AUGUST', 'FREEDOM':'27 july',
+                      'DADDY EMMA':'15 July', }
+
+        #did it work
         self.name = name
         self.birthday = birthday
         self.status = status
